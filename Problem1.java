@@ -19,7 +19,7 @@ public class week13_1 {
     }
     }
 
-    public static void sort( __________ ) {
+    public static void sort(ArrayList<Number> list ) {
 
     Collections.sort(list);
     }
